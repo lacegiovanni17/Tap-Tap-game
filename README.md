@@ -1,11 +1,13 @@
 # Tap-Tap-game
-This is a game where you tap and get a reaction. Try it! 
-👋 Hi, I’m Chidike Henry 
-😎 I’m a web developer 
-💻 This is a Tap tap game website made with HTML, CSS and Javascript. You can play the game by clicking the buttons to get a reaction.  
-🌍 Website:   https://lacegiovanni17.github.io/Tap-Tap-game/
-💞️ I’m looking to collaborate on JS projects 
-📫 How to reach me dk1online25@gmail.com
+## About
+* 👋 Hi, I’m Chidike Henry 
+* 😎 I’m a web developer 
+* 💻 This is my tap-tap animation game made with HTML and CSS.
+* 🌍 Website:  https://lacegiovanni17.github.io/Tap-Tap-game/
+* 🌍 Website:  https://dice-game-dk-js.netlify.app
+* 💞️ I’m looking to collaborate on JS projects 
+* 📫 How to reach me chidike.henry@gmail.com 
+🌍 Website:   
 
 ![chidike taptap game](https://user-images.githubusercontent.com/30509335/204060404-e9dc9d8c-4efd-437c-a6ab-921809b4b30c.JPG)
 
