@@ -7,7 +7,6 @@
 * 🌍 Website:  https://dice-game-dk-js.netlify.app
 * 💞️ I’m looking to collaborate on JS projects 
 * 📫 How to reach me chidike.henry@gmail.com 
-🌍 Website:   
 
 ![chidike taptap game](https://user-images.githubusercontent.com/30509335/204060404-e9dc9d8c-4efd-437c-a6ab-921809b4b30c.JPG)
 
